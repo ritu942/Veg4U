@@ -1,1 +1,1 @@
-A WebApp where you can get Fresh Veggies directly from farm at very Minimal cost.
+Through this webapp, we envision to provide a platform where one can get fresh farm produce directly to their doorstep, just with few clicks. Our aim is to connect various farmers to syncronise their produce at a single application, which would finally be delivered to the customers according to their choice and demand.
